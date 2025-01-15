@@ -1,7 +1,7 @@
 // Question: Pourquoi séparer les routes dans différents fichiers ?
-// Réponse : 
+// Réponse : readmd
 // Question : Comment organiser les routes de manière cohérente ?
-// Réponse: 
+// Réponse: readmd
 
 const express = require('express');
 const router = express.Router();
